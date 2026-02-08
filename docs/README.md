@@ -7,10 +7,6 @@ This documentation provides comprehensive guidance for understanding and impleme
 ## 📚 Documents Overview
 
 ### 1. **Understanding LLM Reasoning and Uncertainty** 
-   **File**: `understanding-llm-reasoning-uncertainty.md`  
-   **Type**: Comprehensive Tutorial  
-   **Length**: ~14,000 words  
-   **Time to Read**: 45-60 minutes
 
    **Contents:**
    - Introduction to LLM hallucinations and why uncertainty matters
